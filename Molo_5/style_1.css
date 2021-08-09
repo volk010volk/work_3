@@ -1,0 +1,19 @@
+.col-1 {
+    background-color: wheat;
+}
+
+.col-2 {
+    background-color: rgb(253, 195, 86);
+}
+
+.col-3 {
+    background-color: rgb(168, 121, 34);
+}
+
+thead {
+    color: teal;
+}
+
+tbody {
+    font-style: italic;
+}

@@ -1,0 +1,23 @@
+table {
+    border-collapse: separate;
+    border-spacing: 10px;
+    width: 50%;
+    margin: auto;
+    background-color: grey;
+}
+
+table, td, th {
+    /* border: 1px solid black; */
+    border-radius: 5px;
+}
+
+td, th {
+    width: auto;
+    text-align: center;
+    background-color: white;
+}
+
+
+th:first-child {
+    width: 5px;
+}
